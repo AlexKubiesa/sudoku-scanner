@@ -1,0 +1,11 @@
+jupyter
+pillow
+tensorflow~=2.10.0
+matplotlib
+pandas
+numpy
+tensorflowjs
+fonttools
+scipy
+tensorflow-datasets
+tensorflow-addons
